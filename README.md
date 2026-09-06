@@ -1,7 +1,6 @@
 # khg5293.github.io
-Technical notes, programming experiments, and small projects by khg5293
 
-# khg5293.github.io
+Technical notes, programming experiments, and small projects by khg5293.
 
 Personal technical landing page for `khg5293`.
 
